@@ -1,0 +1,12 @@
+Source: sleepi-archive-keyring
+Section: misc
+Priority: optional
+Maintainer: Masahiro Honda <honda@mechatrax.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: sleepi-archive-keyring
+Architecture: all
+Depends: ${misc:Depends}
+Description: GnuPG archive keys of the slee-Pi archive
+
