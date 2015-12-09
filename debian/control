@@ -9,4 +9,5 @@ Package: sleepi-archive-keyring
 Architecture: all
 Depends: ${misc:Depends}
 Description: GnuPG archive keys of the slee-Pi archive
-
+ The slee-Pi archive digitally signs its Release files.
+ This package contains the archive keys used for that.
